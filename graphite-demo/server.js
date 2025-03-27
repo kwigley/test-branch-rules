@@ -12,7 +12,7 @@ const activityFeed = [
   {
     id: 2000,
     title: 'Comment on Post',
-    body: "Bob commented on Charlie's post."
+    body: "Bob commented on Charlie's post. And another change"
   },
   {
     id: 13,
